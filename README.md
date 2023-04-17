@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I am a Java developer. Currently studying at "School 21" from Sber.
+I am a Java developer. I love Java like my Mama loves me. Currently studying at "School 21" from Sber.
 
 </br>
 
@@ -24,7 +24,7 @@ I am a Java developer. Currently studying at "School 21" from Sber.
 
 <a href="https://www.opengl.org/"> 
 <img align="left" alt="OpenGl" height="70px style="margin-right:15px"
-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaEkzRyJ_kEMipfHL0ilrqU97VOGd_8LTLmRNJlwe7gor8yb03TMMpXkvvba9piwlynSw&usqp=CAU" />
+src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/opengl/opengl-original.svg" />
 
 <a href="https://www.qt.io/">
 <img align="left" alt="Qt" height="50px" style="margin-right:15px" src="https://variwiki.com/images/4/4e/Qt_logo.png" />
@@ -37,9 +37,10 @@ src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaEkzRyJ_kEMipfHL0ilr
  
 <a href="https://www.linux.org/"> 
 <img align="left" alt="Linux" height="50px" style="margin-right:15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/640px-Tux.svg.png" />
+  
+<a href="https://www.docker.com/"> 
+<img align="left" alt="Docker" height="50px" style="margin-right:15px" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original-wordmark.svg" />
 
-</br>
-</br>
 </br>
 </br>
 </br>
