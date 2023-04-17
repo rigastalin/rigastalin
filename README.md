@@ -62,7 +62,7 @@ src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027
 </br>
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rigastalin&theme=nightowl )](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rigastalin&theme=nightowl )](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **rigastalin/rigastalin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
