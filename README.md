@@ -1,7 +1,20 @@
-### Hi there 👋 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzhhZmU3YTIxMWFjMDZhMWIxMDIyYmNlZjk0YTUxMzQ4ZWU5YjRlOCZjdD1n/fg9WTiKqZ0ZM6o244o/giphy.gif" width="100"/>
+</div>
 
-I am a Java developer. I love Java like my Mama loves me. Currently studying at "School 21" from Sber.
 
+<h1 align="center"> Hi there, My name is Dima 👋  </h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=16&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1000&lines=I+am+a+Java+Developer.+I+love+Java+like+my+Mama+loves+me.+Currently+studying+at+%22School+21%22+from+Sber.+)](https://git.io/typing-svg)
+<!-- <p align="center"> I am a Java Developer. I love Java like my Mama loves me. Currently studying at "School 21" from Sber. </p> -->
+
+<p align="center" > <img src="https://komarev.com/ghpvc/?username=rigastalin&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" /> </p>
+
+<h2 align="center"> You can catch me: </h2>
+<div align="center">
+[![Email](https://img.shields.io/badge/-Email-2F4F4F?style=for-the-badge&logo=telegram&logoColor=27A0D9)](mailto:cflossiegmail@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/rigastalin)
+<div>
 </br>
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2> 
